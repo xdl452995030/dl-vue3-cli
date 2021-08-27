@@ -1,0 +1,28 @@
+{
+  "name": "dl-vue3-cli",
+  "version": "1.0.5",
+  "description": "快速创建vue3项目的命令行工具",
+  "main": "index.js",
+  "bin": {
+    "dl-vue3-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue3",
+    "脚手架"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "git-clone": "^0.1.0",
+    "open": "^8.2.1",
+    "shelljs": "^0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xdl452995030/dl-vue3-cli.git"
+  }
+}
